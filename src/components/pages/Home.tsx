@@ -1,6 +1,6 @@
 
 import { Fonctionnalites } from '../layouts/Fonctionnalities'
-import { Footer } from '../layouts/footer'
+import { Footer } from '../layouts/Footer'
 import { Header } from '../layouts/Header'
 import { Plans } from '../layouts/Plans'
 import { Product } from '../layouts/Product'
